@@ -1,0 +1,13 @@
+{
+	"name": "x-bind",
+	"version": "1.0.0",
+	"description": "Data binding library.",
+	"keywords": [
+		"observable", "bind", "binding", "data binding"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/x-bind/issues",
+	"license": "MIT",
+	"main": "bind.js",
+	"repository": "lexarx/x-bind"
+}
